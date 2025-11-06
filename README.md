@@ -1,4 +1,4 @@
-# U3.-Pr-ctica-2.-Checador-asistencia-aula-de-profesores-BINAS-DAM
+# U3.-Practica-2.-Checador-asistencia-aula-de-profesores-BINAS-DAM
 Se desea construir una aplicación para que los trabajadores del área de recursos humanos puedan pasar asistencia en aula de los profesores de una escuela X. Considere el siguiente esquema de base de datos:
 
 El diseño VALDRÁ 50% de la calificación de esta tarea, lo que deberá ser estético y funcional usando objetos de interfaz avanzados los cuales quedarán a consideración de la bina (Drawer, BottomNav, Tabs, BottomSheet, ListasDinámicas, etc). Las imágenes para el diseño y la pantom deberán tener armonía.
